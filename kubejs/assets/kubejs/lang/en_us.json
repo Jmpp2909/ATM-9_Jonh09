@@ -3527,7 +3527,7 @@
 	"atm9.quest.hostile.desc.simulator": "The &dSimulation Chamber&r is the main machine within HNN. \\n \\n When given power, it will run simulations based on the &bData Model&r that is placed inside. The power required also depends on the Data Model placed inside, and can be seen within the Model's tooltip.  \\n \\n The machine also requires at least one &9Prediction Matrix&r to run a simulation. \\n \\n The result of the simulation will be output onto the Matrix. Simulations will always produce some kind of &eGeneralized Prediction&r, which can be used in various crafting recipes. They also vary depending on the origin of the mob in the Data Model. \\n \\n If the simulation succeeds, you will receive a &dMob Prediction&r based off of the model. The higher the tier of the Data Model used, the higher the success rate is for a simulation.",
 	"atm9.quest.hostile.desc.overworld": "Makes various Overworld materials.",
 	"atm9.quest.hostile.desc.nether": "Makes various Nether materials.",
-	"atm9.quest.hostile.desc.end": "Makes various Nether materials.", 
+	"atm9.quest.hostile.desc.end": "Makes various End materials.", 
 	"atm9.quest.hostile.desc.twilight": "Makes various Twilight Forest materials.",
 	"atm9.quest.hostile.desc.loot": "The &5Loot Fabricator&r is the machine that gets you that sweet, sweet loot from Mob Predictions. \\n \\n When given power and a successful Mob Prediction, you will be able to choose which item you'd like to get from that mob's Data Model. The machine will remember your choice, so it can be automated. \\n \\n Notable Mob Predictions: \\n \\n - &dEnder Dragons&r for &dDragon Eggs&r \\n - &2Zombies&r for Iron \\n - &0Withers&r for &5Nether Stars&r",
 	
